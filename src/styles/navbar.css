@@ -1,0 +1,25 @@
+.folder{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    /* clip-path: polygon(67% 11%, 100% 11%, 100% 35%, 100% 70%, 100% 100%, 50% 100%, 0 100%, 0% 70%, 0% 35%, 46% 35%); */
+}
+
+.menu-container{
+    margin-bottom: 10px;
+    min-width: 9vw;
+    cursor: pointer;
+}
+
+.multicolor_text{
+    background: -webkit-linear-gradient(#139CD2, #AD00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: 40px;
+
+}
+
+.bg-gradient{
+    background: linear-gradient(to right, #139CD2 1%, #3D4AAD 85%, #AD00FF 100%);
+  }
